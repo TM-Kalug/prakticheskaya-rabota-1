@@ -1,0 +1,30 @@
+Z:\Калугин Т.М\Taskk1\Taskk1\bin\Debug\Taskk1.exe.config
+Z:\Калугин Т.М\Taskk1\Taskk1\bin\Debug\Taskk1.exe
+Z:\Калугин Т.М\Taskk1\Taskk1\bin\Debug\Taskk1.pdb
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.csproj.AssemblyReference.cache
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.days.resources
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.Properties.Resources.resources
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.csproj.GenerateResource.cache
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.csproj.CoreCompileInputs.cache
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.exe
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.pdb
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.Form1.resources
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.min.resources
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.otr.resources
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.tab.resources
+Z:\Калугин Т.М\Taskk1\Taskk1\obj\Debug\Taskk1.tovar.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\bin\Debug\Taskk1.exe.config
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\bin\Debug\Taskk1.exe
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\bin\Debug\Taskk1.pdb
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.days.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.Form1.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.min.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.otr.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.tab.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.tovar.resources
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.exe
+C:\Users\ADMIN\Desktop\Taskk1\Taskk1\obj\Debug\Taskk1.pdb
